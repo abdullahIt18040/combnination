@@ -16,6 +16,7 @@ long long powmod(int p)
         b*=b;
         b%=m;
         p/=2;
+// my name is abdullah 
     }
     return ans;
 }
